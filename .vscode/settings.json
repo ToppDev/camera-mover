@@ -1,0 +1,6 @@
+{
+    "clang-tidy.lintOnSave": false,
+    "clang-tidy.checks": [
+        "-*"
+    ]
+}
